@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.top-bar {
+    background: #333333;
+    color: #ffffff;
+    padding: 1rem;
+}
+
+.btn {
+    background: coral;
+    color: #ffffff;
+    border: none;
+    outline: none;
+    cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='36' height='43' viewport='0 0 100 100' style='fill:black;font-size:22px;'><text y='50%'>🍺</text></svg>") 16 0,auto; /*!emojicursor.app*/
+    padding: 0.8rem 2rem;
+    font-weight: bold;
+    border-radius: 5%;
+}
+
+.btn:hover {
+    opacity: 0.9;
+}
+
+.page-info {
+    margin-left: 1rem;
+}
+
+.error {
+    background: orangered;
+    color: #ffffff;
+    padding: 1rem;
+}

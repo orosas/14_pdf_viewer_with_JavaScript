@@ -7,6 +7,8 @@ Medios de contacto del autor del video:
 * http://www.twitter.com/traversymedia
 * http://www.instagram.com/traversymedia
 
+## Requisitos
+pdf.js
 
 Junio 2020
 Omar Rosas
